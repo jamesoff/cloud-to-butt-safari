@@ -1,8 +1,6 @@
 // I stole all this stuff from here: https://github.com/panicsteve/cloud-to-butt/blob/master/Source/content_script.js
 
-document.addEventListener("DOMContentLoaded", function(event) { 
-	walk(document.body);
-});
+walk(document.body);
 
 function walk(node) {
 	// I stole this function from here:
