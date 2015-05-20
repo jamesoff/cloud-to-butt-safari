@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>Logan Collins</string>
+	<string>James Seward</string>
 	<key>Builder Version</key>
-	<string>8536.26.17</string>
+	<string>10600.6.3</string>
 	<key>CFBundleDisplayName</key>
-	<string>CloudToButt</string>
+	<string>Cloud-to-Butt-Safari-jms</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.sunflowersw.cloud-to-butt</string>
+	<string>net.jamesoff.cloud-to-butt-safari</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -29,7 +29,9 @@
 		</dict>
 	</dict>
 	<key>Description</key>
-	<string>Replaces occurrences of &apos;the cloud&apos; with &apos;my butt&apos;.</string>
+	<string>Replaces Cloud with Butt</string>
+	<key>DeveloperIdentifier</key>
+	<string>3HAF7UXWYS</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
@@ -43,6 +45,6 @@
 		</dict>
 	</dict>
 	<key>Website</key>
-	<string>http://github.com/logancollins/cloud-to-butt-safari</string>
+	<string>http://jamesoff.net</string>
 </dict>
 </plist>
